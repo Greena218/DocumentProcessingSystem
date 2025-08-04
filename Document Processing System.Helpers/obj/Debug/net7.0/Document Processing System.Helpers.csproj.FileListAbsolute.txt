@@ -1,0 +1,12 @@
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.AssemblyInfoInputs.cache
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.AssemblyInfo.cs
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.csproj.CoreCompileInputs.cache
+C:\DPS\Document Processing System.Helpers\bin\Debug\net7.0\Document Processing System.Helpers.deps.json
+C:\DPS\Document Processing System.Helpers\bin\Debug\net7.0\Document Processing System.Helpers.dll
+C:\DPS\Document Processing System.Helpers\bin\Debug\net7.0\Document Processing System.Helpers.pdb
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.csproj.AssemblyReference.cache
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.dll
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\refint\Document Processing System.Helpers.dll
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\Document Processing System.Helpers.pdb
+C:\DPS\Document Processing System.Helpers\obj\Debug\net7.0\ref\Document Processing System.Helpers.dll

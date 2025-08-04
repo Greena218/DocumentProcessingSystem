@@ -1,0 +1,17 @@
+C:\DPS\Document Processing System.DAL\bin\Debug\net7.0\Document Processing System.DAL.deps.json
+C:\DPS\Document Processing System.DAL\bin\Debug\net7.0\Document Processing System.DAL.runtimeconfig.json
+C:\DPS\Document Processing System.DAL\bin\Debug\net7.0\Document Processing System.DAL.dll
+C:\DPS\Document Processing System.DAL\bin\Debug\net7.0\Document Processing System.DAL.pdb
+C:\DPS\Document Processing System.DAL\bin\Debug\net7.0\Document Processing System.Entities.dll
+C:\DPS\Document Processing System.DAL\bin\Debug\net7.0\Document Processing System.Entities.pdb
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.csproj.AssemblyReference.cache
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.AssemblyInfoInputs.cache
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.AssemblyInfo.cs
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.csproj.CoreCompileInputs.cache
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.csproj.CopyComplete
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.dll
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\refint\Document Processing System.DAL.dll
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.pdb
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\Document Processing System.DAL.genruntimeconfig.cache
+C:\DPS\Document Processing System.DAL\obj\Debug\net7.0\ref\Document Processing System.DAL.dll

@@ -1,0 +1,14 @@
+C:\DPS\Document Processing System.Entities\bin\Debug\net7.0\Document Processing System.Entities.deps.json
+C:\DPS\Document Processing System.Entities\bin\Debug\net7.0\Document Processing System.Entities.runtimeconfig.json
+C:\DPS\Document Processing System.Entities\bin\Debug\net7.0\Document Processing System.Entities.dll
+C:\DPS\Document Processing System.Entities\bin\Debug\net7.0\Document Processing System.Entities.pdb
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.csproj.AssemblyReference.cache
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.AssemblyInfoInputs.cache
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.AssemblyInfo.cs
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.csproj.CoreCompileInputs.cache
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.dll
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\refint\Document Processing System.Entities.dll
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.pdb
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\Document Processing System.Entities.genruntimeconfig.cache
+C:\DPS\Document Processing System.Entities\obj\Debug\net7.0\ref\Document Processing System.Entities.dll

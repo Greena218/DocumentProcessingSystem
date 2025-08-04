@@ -1,0 +1,86 @@
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\appsettings.Development.json
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\appsettings.json
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.PL.exe
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.PL.deps.json
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.PL.runtimeconfig.json
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.PL.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.PL.pdb
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Azure.Core.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Azure.Identity.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Humanizer.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.CodeDom.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Memory.Data.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.BL.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.Entities.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.BL.pdb
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.Entities.pdb
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.csproj.AssemblyReference.cache
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.AssemblyInfoInputs.cache
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.AssemblyInfo.cs
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.csproj.CoreCompileInputs.cache
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets\msbuild.Document Processing System.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets\msbuild.build.Document Processing System.PL.props
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Document Processing System.PL.props
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Document Processing System.PL.props
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets.pack.json
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets.build.json
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\staticwebassets.development.json
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\scopedcss\bundle\Document Processing System.PL.styles.css
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.csproj.CopyComplete
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.dll
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\refint\Document Processing System.PL.dll
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.pdb
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\Document Processing System.PL.genruntimeconfig.cache
+C:\DPS\Document Processing System.PL\obj\Debug\net7.0\ref\Document Processing System.PL.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.DAL.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.DAL.pdb
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\itextsharp.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.Helpers.dll
+C:\DPS\Document Processing System.PL\bin\Debug\net7.0\Document Processing System.Helpers.pdb
